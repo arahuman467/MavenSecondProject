@@ -10,4 +10,6 @@ public class TestBank {
 		AbstractClassBank c=new FederalBank();
 		System.out.println(c.generateInterest());
 
+		System.out.println("NewMavenProject Pull Request Successfully Done");
+
 	} }
